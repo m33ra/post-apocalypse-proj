@@ -71,7 +71,7 @@ ptyprocess==0.6.0
 pycparser==2.19
 pygame==1.9.6
 pyglet==1.4.7
-Pygments==2.4.2
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 pyparsing==2.4.5
 pyproj==2.3.1
